@@ -1,0 +1,26 @@
+git --version
+node -v
+cd Documents
+ls
+git status
+mkdir LaunchCode
+ls
+cd LaunchCode
+git init
+git status
+git clone https://github.com/kharbaugh829/DOM-and-Events-Studio.git
+mkdir html-me-something
+cd html-me-something
+touch index.html
+git init
+git status
+git add index.html
+git status
+git commit -m "Created index.html file"
+git status
+git status
+git add images/
+git status
+git commit -m "images"
+git remote add origin https://github.com/kharbaugh829/html-me-something.git
+git push origin master

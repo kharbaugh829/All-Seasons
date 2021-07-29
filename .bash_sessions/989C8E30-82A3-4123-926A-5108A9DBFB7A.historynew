@@ -1,0 +1,18 @@
+cd Documents
+cd LaunchCode
+ls
+git clone https://github.com/kharbaugh829/angular-lc101-projects.git
+cd angular-lc101-projects.git
+cd angular-lc101-projects
+ls
+cd lesson1
+cd exercises
+npm install
+ng serve
+ng serve
+npm install -g @angular/cli@8.2.2
+ng install
+ng serve
+sudo npm install -g @angular/cli@8.2.2
+ng install
+ng serve

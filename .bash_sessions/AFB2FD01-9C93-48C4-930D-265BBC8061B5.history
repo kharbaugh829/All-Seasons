@@ -1,0 +1,28 @@
+ifconfigure en1
+ifconfigure en0
+ifconfig en1
+SFC /SCANNOW
+tracert www.yahoo.com
+cd ~
+unzip instantclient-basic-macos.x64-12.1.0.2.0.zip
+unzip instantclient-sqlplus-macos.x64-12.1.0.2.0.zip
+cd ~/instantclient_12_1
+cd /downloads
+ls -l
+cd Downloads
+/instantclient_12_1
+cd /instantclient_12_1
+ls -l
+cd istantclient_12_1
+cd /istantclient_12_1
+cd Downloads
+cd /instantclient_12_1
+ls-l
+ls -l
+cd 
+cd Downloads
+cd ~ unzip instantclient-basic-macos.x64-12.1.0.2.0.zip 
+cd Downloads
+unzip instantclient-basic-macos.x64-12.1.0.2.0.zip 
+unzip instantclient-sqlplus-macos.x64-12.1.0.2.0.zip 
+cd ~/instantclient_12_1

@@ -1,0 +1,5 @@
+ifconfigure en1
+ifconfigure en0
+ifconfig en1
+SFC /SCANNOW
+tracert www.yahoo.com

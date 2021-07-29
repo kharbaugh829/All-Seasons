@@ -1,0 +1,21 @@
+cd Documents
+ls
+cd LaunchCode
+ls
+cd typescript-lc101-projects
+git status
+cd clone https://github.com/kharbaugh829/typescript-lc101-projects
+git clone https://github.com/kharbaugh829/typescript-lc101-projects
+npm install -g typescript
+tsc -v
+sudo tsc-v
+sudo tsc -v
+sudo npm install -g typescript
+tsc -v
+git status
+git push origin master
+git status
+git status
+git commit -m "Complete"
+git status
+git push origin master
